@@ -1,0 +1,8 @@
+# Message sent to player if the value they provide isn't a number.
+not_numeric: "§cYou must provide a numeric value!"
+
+# Message sent to player when view distance is changed, used %distance% for the players distance.
+view_change_succcess: "§aSuccessfully changed view distance to §9%distance%§a!"
+
+# Message sent to player when they lack perms to change view distance.
+no_perms_message: "§cYou do not have permission to use this command!"

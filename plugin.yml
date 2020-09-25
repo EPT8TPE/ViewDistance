@@ -1,0 +1,18 @@
+name: ViewDistance
+author: TPE
+version: 1.0.0
+api: 3.0.0
+main: TPE\ViewDistance\ViewDistance
+
+commands:
+  view:
+    aliases:
+      - vd
+      - viewdistance
+      - distance
+    permission: view.command
+    description: Alter your view distance!
+
+permissions:
+  view.command:
+    default: true
