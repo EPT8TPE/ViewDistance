@@ -34,6 +34,7 @@ class ViewDistance extends PluginBase {
                 $sender->sendMessage($this->getConfig()->get("view_change_success"));
             }
         }
+        return false;
     }
 
 }
