@@ -1,8 +1,8 @@
 # ViewDistance
-A simple pocketmine plugin that allows players to change their view distance with a command
+A simple pocketmine plugin that allows players to change their view distance with a command.
 
 # Features
-- /view {number}(A number between 1-10)
+- /view {number}(View distance will be set to what view-distance in server-properties is set to if a players number exceeds max view distance).
 [COMING SOON] /view {player} {number}
 
 # How to install
