@@ -11,7 +11,7 @@ use pocketmine\player\Player;
 
 class ViewDistance extends PluginBase {
 
-    public function onEnable() {
+    public function onEnable() : void {
         $this->saveDefaultConfig();
     }
 
