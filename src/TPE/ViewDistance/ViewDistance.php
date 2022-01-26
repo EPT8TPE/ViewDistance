@@ -7,7 +7,7 @@ namespace TPE\ViewDistance;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\plugin\PluginBase;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 class ViewDistance extends PluginBase {
 
